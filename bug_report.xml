@@ -1,0 +1,12 @@
+<root>
+  <Id>1</Id>
+  <Summary>На устройствах nokia не работает запись в диктофоне</Summary>
+  <Environment>Телефоны производителя nokia</Environment>
+  <Priority>low</Priority>
+  <Severity>Blocker</Severity>
+  <Steps_to_reproduce>1)Открыть приложение</Steps_to_reproduce>
+  <Steps_to_reproduce>2) Авторизация в приложении</Steps_to_reproduce>
+  <Steps_to_reproduce>3) Нажать на кнопку записи диктовки</Steps_to_reproduce>
+  <Actual_result>Невозможно начать запись диктовки из-за неактивной кнопки</Actual_result>
+  <Expected_result>При нажатии на кнопку записи диктовки, запись начинается</Expected_result>
+</root>
